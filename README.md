@@ -19,7 +19,9 @@ a = np.array ([[1,2,3],[3,6,9]])
 sol = np.linalg.matrix_rank (a)
 print (sol)
 ``````````````````
-## Output:
+## Output: 
+![Screenshot (45)](https://user-images.githubusercontent.com/94233064/143688314-f0dbcead-3084-4eeb-8500-0ce81698d847.png)
+
 ## Result:
 Thus the rank for the given matrix is successfully solved by  using a python program.
 
